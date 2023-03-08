@@ -1,0 +1,24 @@
+# Arquivos gerados pela linguagem de programação
+node_modules
+dist
+*.log
+
+# Arquivos gerados pela IDE ou editor de texto
+.vscode
+.idea
+
+# Arquivos específicos da plataforma
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração que contêm segredos ou informações sensíveis
+.env
+
+# Arquivos de build e artefatos gerados
+build/
+target/
+bin/
+
+# Arquivos específicos da estrutura do projeto
+package-lock.json
+tsconfig.json
